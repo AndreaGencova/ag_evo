@@ -1,0 +1,7 @@
+{
+  "id": "underaged",
+  "name": "Underaged User",
+  "youngerThan": {
+    "value": 18
+  }
+}

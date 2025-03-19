@@ -1,0 +1,7 @@
+{
+  "id" : "developer-full-access",
+  "name": "Developer (Full Access)",
+  "isMemberOf": {
+    "value": "Software Development"
+  }
+}

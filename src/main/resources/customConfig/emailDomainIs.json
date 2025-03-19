@@ -1,0 +1,7 @@
+{
+  "id" : "internal-user",
+  "name": "Internal User",
+  "emailDomainIs": {
+    "value": "evolveum.com"
+  }
+}
